@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chrisyy2003
 - 👀 I’m interested in crypto/blockchain/minecraft
-- 🌱 I’m currently learning move and working in contract auditing
-- 📫 Reach me at chrisyang2003@qq.com
+- 🌱 I’m currently working in contract auditing
 
 <!-- ![](https://komarev.com/ghpvc/?username=chrisyy2003) -->
 <!---
