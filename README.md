@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisyy2003
 - 👀 I’m interested in crypto/blockchain/minecraft
-- 🌱 I’m currently working in contract auditing
+- 🌱 I’m currently working in web3
 
 <!-- ![](https://komarev.com/ghpvc/?username=chrisyy2003) -->
 <!---
