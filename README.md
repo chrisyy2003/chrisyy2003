@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisyy2003
+- 👋 Hi, I’m @chrisyy
 - 👀 I’m interested in crypto/blockchain/minecraft
 - 🌱 I’m currently working in contract auditing in web3
 
