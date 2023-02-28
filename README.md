@@ -2,6 +2,8 @@
 - 👀 I’m interested in crypto/blockchain/minecraft
 - 🌱 I’m currently working in contract auditing in web3
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisyy2003&show_icons=true&theme=tokyonight)
+
 <!-- ![](https://komarev.com/ghpvc/?username=chrisyy2003) -->
 <!---
 chrisyy2003/chrisyy2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
