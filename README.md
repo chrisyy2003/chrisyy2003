@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-chrisyy2003.vercel.app/api?username=chrisyy2003&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
 
-<!-- ![Top Langs](https://github-readme-stats-chrisyy2003.vercel.app/api/top-langs/?username=chrisyy2003&layout=compact&hide=Vue,Handlebars,SCSS,HTML,CSS,ShaderLab,Stylus,ejs,Tcl&count_private=true&theme=buefy&langs_count=10)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisyy2003&layout=compact&hide=Vue,Handlebars,SCSS,HTML,CSS,ShaderLab,Stylus,ejs,Tcl&count_private=true&theme=buefy&langs_count=10)
  -->
 <!-- ![](https://komarev.com/ghpvc/?username=chrisyy2003) -->
 <!---
