@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisyy
 - 👀 I’m interested in crypto/blockchain/minecraft
-- 🌱 I’m currently working in contract auditing in web3
+- 🌱 I’m currently working in web3
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisyy2003&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
 
